@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [bearcat (v0.4.29)](https://github.com/bearcatjs/bearcat) [![npm package](https://img.shields.io/npm/v/npmtest-bearcat.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bearcat) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bearcat.svg)](https://travis-ci.org/npmtest/node-npmtest-bearcat)",
+    "description": "#### basic test coverage for  [bearcat (v0.4.29)](https://github.com/bearcatjs/bearcat)  [![npm package](https://img.shields.io/npm/v/npmtest-bearcat.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bearcat) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bearcat.svg)](https://travis-ci.org/npmtest/node-npmtest-bearcat)",
     "devDependencies": {
         "bearcat": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

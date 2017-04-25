@@ -1,4 +1,7 @@
-# test coverage for  [bearcat (v0.4.29)](https://github.com/bearcatjs/bearcat)  [![npm package](https://img.shields.io/npm/v/npmtest-bearcat.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bearcat) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bearcat.svg)](https://travis-ci.org/npmtest/node-npmtest-bearcat)
+# npmtest-bearcat
+
+#### basic test coverage for  [bearcat (v0.4.29)](https://github.com/bearcatjs/bearcat)  [![npm package](https://img.shields.io/npm/v/npmtest-bearcat.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bearcat) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bearcat.svg)](https://travis-ci.org/npmtest/node-npmtest-bearcat)
+
 #### Magic, self-described javaScript objects build up elastic, maintainable front-backend javaScript applications
 
 [![NPM](https://nodei.co/npm/bearcat.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bearcat)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-bearcat/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-bearcat/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-bearcat/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-bearcat/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-bearcat/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-bearcat/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-bearcat/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-bearcat/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-bearcat/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-bearcat/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-bearcat/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-bearcat/build/coverage.html/index.html)
 
